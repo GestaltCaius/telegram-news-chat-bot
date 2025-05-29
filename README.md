@@ -14,8 +14,8 @@
 <a href="https://github.com/GestaltCaius/telegram-news-chat-bot/releases">
 <img alt="Current Release" src="https://img.shields.io/github/release/GestaltCaius/telegram-news-chat-bot.svg"/>
 </a>
-<a href="https://hub.docker.com/r/GestaltCaius/telegram-news-chat-bot">
-<img alt="Docker Pull Count" src="https://img.shields.io/docker/pulls/GestaltCaius/telegram-news-chat-bot.svg"/>
+<a href="https://github.com/GestaltCaius/telegram-news-chat-bot/actions/workflows/release.yml">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/GestaltCaius/telegram-news-chat-bot/release.yml">
 </a>
 </p>
 
