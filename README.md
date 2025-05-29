@@ -15,10 +15,10 @@
 <img alt="Current Release" src="https://img.shields.io/github/release/GestaltCaius/telegram-news-chat-bot.svg"/>
 </a>
 <a href="https://github.com/GestaltCaius/telegram-news-chat-bot/actions/workflows/release.yml">
-<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/GestaltCaius/telegram-news-chat-bot/release.yml?label=release ci">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/GestaltCaius/telegram-news-chat-bot/release.yml?label=release%20CI">
 </a>
 <a href="https://github.com/GestaltCaius/telegram-news-chat-bot/actions/workflows/deploy.yml">
-<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/GestaltCaius/telegram-news-chat-bot/deploy.yml?label=deploy ci">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/GestaltCaius/telegram-news-chat-bot/deploy.yml?label=deploy%20CI">
 </a>
 </p>
 
