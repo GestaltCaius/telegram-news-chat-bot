@@ -1,3 +1,10 @@
+## [1.2.12](https://github.com/GestaltCaius/telegram-news-chat-bot/compare/v1.2.11...v1.2.12) (2025-05-30)
+
+
+### Bug Fixes
+
+* **ci:** update checkout step ([1040b17](https://github.com/GestaltCaius/telegram-news-chat-bot/commit/1040b17147462fbfca28382d3ee1a26f71ade0ff))
+
 ## [1.2.11](https://github.com/GestaltCaius/telegram-news-chat-bot/compare/v1.2.10...v1.2.11) (2025-05-30)
 
 
