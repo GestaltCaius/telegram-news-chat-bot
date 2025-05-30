@@ -1,3 +1,10 @@
+## [1.2.11](https://github.com/GestaltCaius/telegram-news-chat-bot/compare/v1.2.10...v1.2.11) (2025-05-30)
+
+
+### Bug Fixes
+
+* **ci:** update on push branches in deploy ci ([fdf5103](https://github.com/GestaltCaius/telegram-news-chat-bot/commit/fdf51035444b5d533d69be3fdc0fb4d658f2c1fa))
+
 ## [1.2.10](https://github.com/GestaltCaius/telegram-news-chat-bot/compare/v1.2.9...v1.2.10) (2025-05-30)
 
 
