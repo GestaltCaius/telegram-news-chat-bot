@@ -11,6 +11,7 @@
 <br/>
 
 <p align="center">
+<img alt="min python version" src="https://img.shields.io/badge/python-%3E%3D%203.8.10-blue">
 <a href="https://github.com/GestaltCaius/telegram-news-chat-bot/releases">
 <img alt="Current Release" src="https://img.shields.io/github/release/GestaltCaius/telegram-news-chat-bot.svg"/>
 </a>
