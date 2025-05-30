@@ -9,8 +9,8 @@ on:
   pull_request:
 
 env:
-  DOCKER_IMAGE_NAME: ${{ github.repository | split('/') | last | lower }}
-  DOCKER_IMAGE_TAG: ${{ (github.ref_type == 'tag' && github.ref_name || github.sha_short) | replace('/', '-') | lower }}
+  DOCKER_IMAGE_NAME: ${{ github.event.repository.name || github.repository }}
+  DOCKER_IMAGE_TAG: ${{ github.ref_type == 'tag' && github.ref_name || github.sha }}
 
 jobs:
   deploy:
