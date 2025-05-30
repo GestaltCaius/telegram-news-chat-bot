@@ -21,6 +21,9 @@ jobs:
       id-token: 'write' # required by gcp auth
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # force tag refresh
+          persist-credentials: false # breaks tag workflows otherwise?
 
       - uses: 'google-github-actions/auth@v2'
         id: auth
